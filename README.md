@@ -4,11 +4,13 @@ Converts px value to rem
 # Installation
 
 With Lazy
-``` { "tasnimAlam/px2rem.lua" }
+```shell 
+{ "tasnimAlam/px2rem.lua" }
 ```
 
 With Packer
-``` use { "tasnimAlam/px2rem.lua"}
+```shell
+use { "tasnimAlam/px2rem.lua"}
 ```
 
 # Usage
